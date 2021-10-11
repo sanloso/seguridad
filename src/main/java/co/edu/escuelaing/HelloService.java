@@ -2,12 +2,10 @@ package co.edu.escuelaing;
 
 import spark.Request;
 import spark.Response;
-
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Date;
-
 import static spark.Spark.*;
 
 public class HelloService {
